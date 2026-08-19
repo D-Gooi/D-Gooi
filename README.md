@@ -1,6 +1,12 @@
 # Hi, I'm Damien!
-## This portfolio will contain all projects I undertake while on my cyber journey!
 
+This portfolio will contain all projects I undertake while on my cyber journey!
+
+## 🗂️ Projects:
+
+* Practicing Vulnerability Management (Azure and Nessus)
+  * [Vulnerability Management Lab](https://github.com/D-Gooi/vulnerability-management-lab)
+* Capturing Attacker Locations using a Virtual SIEM
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damiengooi6001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gooi.damien@gmail.com) 
