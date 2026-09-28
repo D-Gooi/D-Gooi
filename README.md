@@ -4,6 +4,8 @@ This portfolio will contain all projects I undertake while on my cyber journey!
 
 ## 🗂️ Projects:
 
+* Practical Experience Building, Managing and Monitoring a Cyber Range 
+  * [Cyber Range and Attack Simulation](https://github.com/D-Gooi/cyber-range-attack-detection-simulation)
 * Practicing Vulnerability Management (Azure and Nessus)
   * [Vulnerability Management Lab](https://github.com/D-Gooi/vulnerability-management-lab)
 * Capturing Attacker Locations using a Virtual SIEM
